@@ -12,7 +12,6 @@ node_modules/
 *.zip
 .DS_Store
 .idea
-css/*.css
 ex_files
 Thumbs.db
 Замечания.*
